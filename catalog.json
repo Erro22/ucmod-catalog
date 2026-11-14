@@ -1,0 +1,5 @@
+[
+  {"name":"BloonsTD6 Mod Helper","version":"3.6.10","url":"https://github.com/gurrenm3/BTD-Mod-Helper/releases/download/3.6.10/Btd6ModHelper.dll","desc":"библиотека-зависимость для модов на Mod Helper"},
+  {"name":"Ultimate Crosspathing","version":"1.8.7","url":"https://github.com/doombubbles/UltimateCrosspathing/releases/download/1.8.7/UltimateCrosspathing.dll","desc":"кросспатинг 5-5-5: снимает ограничения веток башен"},
+  {"name":"TestMod","version":"1.0","dll":"assets/mods/TestMod.dll","desc":"тест: Harmony-патч TowerModel.CheckTiers (локальный asset)"}
+]
